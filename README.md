@@ -14,7 +14,7 @@
 <br><br>
 
 - :school: Administrador de Sistemas y Redes con experiencia en la instalación y mantenimiento de servidores (DNS, DHCP, Correo, Radio, FTP, WEB, SGBD) y la gestión de redes (Switches, Routers, Firewall, DMZ, ACL).
-- :computer: Cuento con conocimientos en programación web utilizando tecnologías como HTML, CSS, PHP, JavaScript y XML, así como en la instalación y mantenimiento de bases de datos (PHPMyAdmin, PGAdmin, MySQL, ORACLE).
+- :computer: Administrador de sistemas y redes con amplios conocimientos y experiencia en redes y servidores (Proxmox, Samba, Active Directory, LDAP, DNS, DHCP, FTP, Switches, Firewall, DMZ, ACL, ETC...), sólida capacidad de resolución de problemas además de una inquietante actitud por aprender. Experiencia en programación web (HTML, CSS, PHP, JavaScript, XML) e instalación y mantenimiento de bases de datos (PHPMyAdmin, MySQL, Oracle, PGAdmin).  Me destaco por mi orientación a resultados, eficiencia en entornos críticos y habilidades de comunicación. Busco aportar soluciones escalables, seguras y eficientes en entornos tecnológicos exigentes.
 - 👨‍🏫: Mi objetivo es desarrollar e implementar soluciones seguras, eficientes y escalables que aseguren el máximo rendimiento y estabilidad de los sistemas.
 <br>
 
