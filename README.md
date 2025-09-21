@@ -14,7 +14,6 @@
 <br><br>
 
 - :school: Administrador de Sistemas y Redes con experiencia en la instalación y mantenimiento de servidores (DNS, DHCP, Correo, Radio, FTP, WEB, SGBD) y la gestión de redes (Switches, Routers, Firewall, DMZ, ACL).
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :computer: Cuento con conocimientos en programación web utilizando tecnologías como HTML, CSS, PHP, JavaScript y XML, así como en la instalación y mantenimiento de bases de datos (PHPMyAdmin, PGAdmin, MySQL, ORACLE).
 - 👨‍🏫: Mi objetivo es desarrollar e implementar soluciones seguras, eficientes y escalables que aseguren el máximo rendimiento y estabilidad de los sistemas.
 <br>
